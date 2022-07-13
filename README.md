@@ -2,4 +2,4 @@
 
 Hi! 👋
 
-Please ```clone``` this repo to your local machine, as you will peridocially ```git pull``` material down in the future in order to follow along with lecture, etc.🏼
+Please ```clone``` this repo to your local machine, as you will peridocially ```git pull``` material down in the future in order to follow along with lecture, etc.
