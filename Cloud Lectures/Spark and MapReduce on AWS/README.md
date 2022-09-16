@@ -94,6 +94,8 @@ For more info, check out the [AWS EMR page](https://aws.amazon.com/emr/?nc=sn&lo
 
 # Getting Started
 
+##### [Source](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
+
 ## Set Up an EC2 Key Pair for SSH
 
 To get setup to run an EMR cluster in the cloud, you first have to [set up an EC2 key pair for SSH](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-setting-up.html#emr-setting-up-key-pair). In other words, in order to authenticate and connect to the nodes in a cluster over a secure channel using the Secure Shell (SSH) protocol, you must create an Amazon Elastic Compute Cloud ([Amazon EC2](https://aws.amazon.com/ec2/)) key pair before you launch the cluster. You can also create a cluster without a key pair. This is usually done with transient clusters that start, run steps, and then terminate automatically.
