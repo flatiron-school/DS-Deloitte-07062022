@@ -1,5 +1,9 @@
 # Welcome to your AI Academy course repo!
 
+## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
+
+  [Jump-start your EDA workflow with Pandas Profiling!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Pandas%20Data%20Profiling)
+
 ## Apprenticeship Material
 
   [Linear Regression](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Linear%20Regression)
