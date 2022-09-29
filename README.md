@@ -3,6 +3,7 @@
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
   [Jump-start your EDA workflow with Pandas Profiling!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Pandas%20Data%20Profiling)
+  
   [Increase your productivity with these command line tricks!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Linux%20Command%20Refresher)
 
 ## Apprenticeship Material
