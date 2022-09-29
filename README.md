@@ -14,7 +14,7 @@
 
   [Python Data Manipulation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/python_data_manipulation.ipynb)
   
-  [Pandas Data Cleaning]([https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/python_data_manipulation.ipynb](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/pandas_data_cleaning.ipynb)
+  [Pandas Data Cleaning](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/pandas_data_cleaning.ipynb)
   
   [Aggregating and Combining DataFrames](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/aggregating_combining_dataframes.ipynb)
   
