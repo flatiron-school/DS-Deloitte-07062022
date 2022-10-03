@@ -14,7 +14,7 @@
   
   [PCA](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/PCA)
   
-  [Cloud](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/Cloud%20Lectures)
+  [Cloud](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/Cloud%20Lectures)
 
 ## Intensive Material:
 
