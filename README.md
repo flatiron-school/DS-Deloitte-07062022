@@ -2,6 +2,8 @@
 
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
+  🆕[Get some extra practice working through a complete XGBoost modeling workflow!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/XGBoost%20Challenge)
+
   [Jump-start your EDA workflow with Pandas Profiling!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Pandas%20Data%20Profiling)
   
   [Increase your productivity with these command line tricks!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Linux%20Command%20Refresher)
