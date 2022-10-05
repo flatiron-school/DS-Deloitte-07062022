@@ -1,6 +1,4 @@
 # XGBoost Challenge
-<hr>
-
 ## Predicting Future Outcomes from the Past ~10M Court Cases (1988-Present)
 
 <br>
