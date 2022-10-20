@@ -18,7 +18,7 @@
   
   [Cloud](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Cloud%20Lectures)
 
-  [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-070622/tree/main/archived/apprenticeship/NeuralNetworks)
+  [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/NeuralNetworks)
 
 ## Intensive Material:
 
