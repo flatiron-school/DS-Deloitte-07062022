@@ -20,7 +20,7 @@
 
   [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/NeuralNetworks)
 
-## Intensive Material:
+## Intensive Material
 
   [Python Data Manipulation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/python_data_manipulation.ipynb)
   
