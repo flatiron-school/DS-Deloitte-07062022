@@ -1,5 +1,9 @@
 # Welcome to your AI Academy course repo!
 
+## Recently-Added Lecture Material 💻
+
+  🆕 [Neural Network Evaluation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/Network_Evaluation_and_Normalization.ipynb)
+
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
   🆕 [Get some extra practice working through a complete XGBoost modeling workflow!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/XGBoost%20Challenge)
