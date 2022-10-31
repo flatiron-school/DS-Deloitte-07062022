@@ -8,7 +8,9 @@
 
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
-  🆕 [Get some extra practice working through a complete XGBoost modeling workflow!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/XGBoost%20Challenge)
+  🆕 [Gain insights into how to prevent model overfitting by reading the original paper about the dropout technique!](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/supplemental/dropout-paper.pdf)
+
+  [Get some extra practice working through a complete XGBoost modeling workflow!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/XGBoost%20Challenge)
 
   [Jump-start your EDA workflow with Pandas Profiling!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/Pandas%20Data%20Profiling)
   
