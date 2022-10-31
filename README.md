@@ -2,7 +2,9 @@
 
 ## Recently-Added Lecture Material 💻
 
-  🆕 [Neural Network Evaluation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/Network_Evaluation_and_Normalization.ipynb)
+  🆕 [Neural Network Evaluation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/Network_Evaluation_and_Normalization.ipynb) <a href="https://colab.research.google.com/drive/1GohskX91cw3p6ysYt63zWk8KB73bgS9p?usp=sharing#offline=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
