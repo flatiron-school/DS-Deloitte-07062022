@@ -116,6 +116,11 @@ Notes:
 6. Perform one or two more quick iterations of the five previous steps.
 7. Shortlist the top three to five most promising models, preferring models that make different types of errors.
 
+Resources:
+
+* [`scikit-learn's` list of Supervised ML models](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+* [`scikit-learn's` model selection metrics and techniques](https://scikit-learn.org/stable/model_selection.html#model-selection)
+
 ## Fine-Tune the System
 
 Notes:
