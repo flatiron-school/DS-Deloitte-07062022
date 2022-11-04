@@ -16,7 +16,9 @@
 
 ## Recently-Added [Supplemental Material](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental) 🤓
 
-  🆕 [Gain insights into how to prevent model overfitting by reading the original paper about the dropout technique!](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/supplemental/dropout-paper.pdf)
+  🆕 [Get a jump on your next ML project using this general-purpose project checklist!](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/supplemental/machine-learning-checklist.md)
+
+  [Gain insights into how to prevent model overfitting by reading the original paper about the dropout technique!](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/supplemental/dropout-paper.pdf)
 
   [Get some extra practice working through a complete XGBoost modeling workflow!](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/supplemental/XGBoost%20Challenge)
 
