@@ -2,11 +2,11 @@
 
 ## Recently-Added Lecture Material 💻
 
-  Regularization <a href="https://colab.research.google.com/drive/1gZOmx9u4zs3VfEeXRP_EVXBP36a9klVC?usp=sharing#offline=true&sandboxMode=true">
+  🆕 Regularization <a href="https://colab.research.google.com/drive/1gZOmx9u4zs3VfEeXRP_EVXBP36a9klVC?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-  Intro to CNNs <a href="https://colab.research.google.com/drive/1q-siuqEHtpFkdUSLoZzhDcNGka5PmFqi?usp=sharing#offline=true&sandboxMode=true">
+  🆕 Intro to CNNs <a href="https://colab.research.google.com/drive/1q-siuqEHtpFkdUSLoZzhDcNGka5PmFqi?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
