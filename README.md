@@ -1,4 +1,11 @@
-# Welcome to your AI Academy course repo!
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/tree/main/" 
+   target="_parent">
+   <img align="right" 
+      src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
+
+# Welcome to your AI Academy course repo! 
 
 ## Recently-Added Lecture Material 💻
 
