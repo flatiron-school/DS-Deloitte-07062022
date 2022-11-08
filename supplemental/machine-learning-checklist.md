@@ -1,6 +1,6 @@
 # Machine Learning Project Checklist
 
-**Source:** *Hands-on Machine Leanrning with Scikit-Learn, Keras & Tensorflow*
+**Source:** *Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow*
 
 This checklist can guide you through your machine learning projects. There are eight main steps:
 
