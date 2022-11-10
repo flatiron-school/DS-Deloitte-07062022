@@ -1,1 +1,2 @@
 supplemental/XGBoost[[:space:]]Challenge/raw[[:space:]]data/cv88on.txt filter=lfs diff=lfs merge=lfs -text
+supplemental/chest_xray.zip filter=lfs diff=lfs merge=lfs -text
