@@ -20,7 +20,9 @@ This checklist can guide you through your machine learning projects. There are e
 
 [8. Launch, monitor, and maintain your system.](#Launch)
 
-Obviously, you should feel free to adapt this checklist to your needs.
+Below is an illustration of how these tasks map onto the [timeline for the capstone project](https://nickmccarty.me/capstone-project-timeline); obviously, you should feel free to adapt this checklist to your needs:
+
+![](https://raw.githubusercontent.com/flatiron-school/DS-Deloitte-07062022/main/archived/intensive/images/timeline-viz.png)
 
 ## Frame the Problem and Look at the Big Picture
 
