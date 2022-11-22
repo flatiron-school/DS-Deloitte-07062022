@@ -12,6 +12,10 @@
   🆕 Intro to Computer Vision <a href="https://colab.research.google.com/drive/1J8HIqBLQuxl24_Krop9_KHE1czfU0QWC?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+      🆕 Detectron2 Fine-tuning Tutorial <a href="https://colab.research.google.com/drive/1LyI9UMdW6kQqFXdi7yPBoBSmFJ4b0XUq?usp=sharing#offline=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
   
   Regularization <a href="https://colab.research.google.com/drive/1gZOmx9u4zs3VfEeXRP_EVXBP36a9klVC?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
