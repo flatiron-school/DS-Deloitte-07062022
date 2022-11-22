@@ -9,7 +9,7 @@
 
 ## Recently-Added Lecture Material 💻
 
-  🆕 CNN Pair Programming Exercise <a href="https://colab.research.google.com/drive/1jg70YuULjK28mhZyVU5aFCoKZqCAjUGt?usp=sharing#offline=true&sandboxMode=true">
+  🆕 Intro to Computer Vision <a href="https://colab.research.google.com/drive/1J8HIqBLQuxl24_Krop9_KHE1czfU0QWC?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
@@ -21,7 +21,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-  [Neural Network Evaluation](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/Network_Evaluation_and_Normalization.ipynb) <a href="https://colab.research.google.com/drive/1GohskX91cw3p6ysYt63zWk8KB73bgS9p?usp=sharing#offline=true&sandboxMode=true">
+  Neural Network Evaluation <a href="https://colab.research.google.com/drive/1GohskX91cw3p6ysYt63zWk8KB73bgS9p?usp=sharing#offline=true&sandboxMode=true">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -47,7 +47,9 @@
   
   [Cloud](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Cloud%20Lectures)
 
-  [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/NeuralNetworks)
+  [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Neural%20Networks)
+
+  [Computer Vision](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Computer%20Vision)
 
 ## Intensive Material
 
