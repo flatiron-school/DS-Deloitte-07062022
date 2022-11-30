@@ -136,7 +136,7 @@ Notes:
 2. Try ensemble methods. Combining your best models will often produce better performance than running them individually.
 3. Once you are confident about your final model, measure its performance on the test set to estimate the generalization error.
 
-**Warning: Don’t tweak your model after measuring the generalization error: you would just start overfitting the test set.**
+**Warning: Don’t tweak your model after measuring the generalization error -- you would just start overfitting the test set.**
 
 ## Present Your Solution
 
