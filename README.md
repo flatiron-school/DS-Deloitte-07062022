@@ -17,7 +17,31 @@
     </tr>
     <tr>
         <td>
-            🆕 Intro to Computer Vision 
+            🆕 Transfer Learning
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1Nro0xTRwxnCi-penjbj2DCc9MKI8FbKg?usp=sharing#offline=true&sandboxMode=true">
+               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            🆕 Transfer Learning Practice with Audio
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1y3QXjeoESA2weyeanlFgTAJiz38teJPE?usp=sharing#offline=true&sandboxMode=true">
+               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Intro to Computer Vision 
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1J8HIqBLQuxl24_Krop9_KHE1czfU0QWC?usp=sharing#offline=true&sandboxMode=true">
@@ -26,13 +50,13 @@
         </td>
         <td>
             <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/Computer%20Vision/Intro_to_Computer_Vision.ipynb" target = "_parent">
-               <img align="right" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            🆕 Detectron2 Fine-tuning Tutorial 
+            Detectron2 Fine-tuning Tutorial 
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1J8HIqBLQuxl24_Krop9_KHE1czfU0QWC?usp=sharing#offline=true&sandboxMode=true">
@@ -40,7 +64,6 @@
             </a>
         </td>
         <td>
-            N/A
         </td>
     </tr>
     <tr>
@@ -54,7 +77,7 @@
         </td>
         <td>
             <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/Neural%20Networks/Network_Regularization.ipynb" target = "_parent">
-               <img align="right" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
             </a>
         </td>
     </tr>
@@ -69,7 +92,7 @@
         </td>
         <td>
             <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/Neural%20Networks/Intro_to_CNNs.ipynb" target = "_parent">
-               <img align="right" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
             </a>
         </td>
     </tr>
@@ -84,7 +107,7 @@
         </td>
         <td>
             <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/Neural%20Networks/Network_Evaluation_and_Normalization.ipynb" target = "_parent">
-               <img align="right" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
             </a>
         </td>
     </tr>
