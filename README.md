@@ -17,7 +17,19 @@
     </tr>
     <tr>
         <td>
-            🆕 Transfer Learning
+            🆕 Natural Language Processing (NLP)
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1iWM2pn4AjRpOakkTEg3gjr5HVWEdxcMz?usp=sharing#offline=true&sandboxMode=true">
+               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Transfer Learning
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1Nro0xTRwxnCi-penjbj2DCc9MKI8FbKg?usp=sharing#offline=true&sandboxMode=true">
@@ -29,7 +41,7 @@
     </tr>
     <tr>
         <td>
-            🆕 Transfer Learning Practice with Audio
+            Transfer Learning Practice with Audio
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1y3QXjeoESA2weyeanlFgTAJiz38teJPE?usp=sharing#offline=true&sandboxMode=true">
