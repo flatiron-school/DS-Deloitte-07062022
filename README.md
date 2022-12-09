@@ -68,7 +68,7 @@
     </tr>
     <tr>
         <td>
-            Detectron2 Fine-tuning Tutorial 
+            Detectron2 Fine-Tuning Tutorial 
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1LyI9UMdW6kQqFXdi7yPBoBSmFJ4b0XUq?usp=sharing#offline=true&sandboxMode=true">
