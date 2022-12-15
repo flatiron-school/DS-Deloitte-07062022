@@ -17,7 +17,31 @@
     </tr>
     <tr>
         <td>
-            🆕 Natural Language Processing (NLP)
+            🆕 Text Classification
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1PIWZW-JAGsimiHVd81x-FgJnW-ivfr8-?usp=sharing#offline=true&sandboxMode=true">
+               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            🆕 HuggingFace BERT Fine-Tuning Tutorial
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/drive/1Fddo9zcAHYXrpcbBFFiLVhW14Pw0Pg9d?usp=sharing#offline=true&sandboxMode=true">
+               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Natural Language Processing (NLP)
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1iWM2pn4AjRpOakkTEg3gjr5HVWEdxcMz?usp=sharing#offline=true&sandboxMode=true">
