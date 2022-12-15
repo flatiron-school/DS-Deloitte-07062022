@@ -61,6 +61,9 @@
             </a>
         </td>
         <td>
+            <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/Computer%20Vision/Transfer%20Learning.ipynb" target = "_parent">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+            </a>
         </td>
     </tr>
     <tr>
