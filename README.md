@@ -5,7 +5,15 @@
       width="109" height="20">
 </a>
 
-# Welcome to your AI Academy course repo! 
+# Welcome to your AI Academy course repo!
+
+## Capstone-Relevant Resources
+
+* [General-purpose ML checklist](https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/supplemental/machine-learning-checklist.md)
+* [`scikit-learn's` list of Supervised ML models](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+* [`scikit-learn's` model selection metrics and techniques](https://scikit-learn.org/stable/model_selection.html#model-selection)
+* [`scikit-learn's` summary of ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
+* [From Data to Viz](https://www.data-to-viz.com/)
 
 ## Recently-Added Lecture Material 💻
 
