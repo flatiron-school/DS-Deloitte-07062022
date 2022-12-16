@@ -33,6 +33,9 @@
             </a>
         </td>
         <td>
+            <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/NLP/Text%20Classification.ipynb" target = "_parent">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+            </a>
         </td>
     </tr>
     <tr>
@@ -57,6 +60,9 @@
             </a>
         </td>
         <td>
+            <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/blob/main/archived/apprenticeship/NLP/NLP.ipynb" target = "_parent">
+               <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+            </a>
         </td>
     </tr>
     <tr>
@@ -76,7 +82,7 @@
     </tr>
     <tr>
         <td>
-            Transfer Learning Practice with Audio
+            Transfer Learning with Audio Tutorial
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1y3QXjeoESA2weyeanlFgTAJiz38teJPE?usp=sharing#offline=true&sandboxMode=true">
@@ -185,6 +191,8 @@
   [Neural Networks](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Neural%20Networks)
 
   [Computer Vision](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/Computer%20Vision)
+  
+  [NLP](https://github.com/flatiron-school/DS-Deloitte-07062022/tree/main/archived/apprenticeship/NLP)
 
 ## Intensive Material
 
