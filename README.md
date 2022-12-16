@@ -14,6 +14,8 @@
 * [`scikit-learn's` model selection metrics and techniques](https://scikit-learn.org/stable/model_selection.html#model-selection)
 * [`scikit-learn's` summary of ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
 * [From Data to Viz](https://www.data-to-viz.com/)
+* [How to ask a good question](https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/)
+* [How to create an Issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 ## Recently-Added Lecture Material 💻
 
