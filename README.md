@@ -9,7 +9,7 @@
 
 ## Capstone-Relevant Resources
 
-* 🆕 [Interactive Capstone Project Checklist Summary](https://nickmccarty.me/apprenticeship-capstone-checklist-summary)
+* 🆕 [Interactive Capstone Project Checklist and Rubric](https://nickmccarty.me/apprenticeship-capstone-checklist-and-rubric)
 * [`scikit-learn's` list of Supervised ML models](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 * [`scikit-learn's` model selection metrics and techniques](https://scikit-learn.org/stable/model_selection.html#model-selection)
 * [`scikit-learn's` summary of ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
