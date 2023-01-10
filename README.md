@@ -1,3 +1,11 @@
+**Note:** *This repo will no longer be updated/maintained. There is lots of good stuff in here though, so if you do decide to clone it down to your local machine, you will notice that it takes considerable time to complete (~45 minutes, as I recall).*
+
+You can use the depricated command `git lfs clone` to produce a more verbose progress tracker than `git clone` provides:
+
+<img src = "https://github.com/flatiron-school/DS-Deloitte-07062022/blob/main/archived/intensive/images/git-lfs-clone.png" width = 500>
+
+<hr>
+
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-07062022/tree/main/" 
    target="_parent">
    <img align="right" 
@@ -9,7 +17,7 @@
 
 ## Capstone-Relevant Resources
 
-* 🆕 [Interactive Capstone Project Checklist and Rubric](https://nickmccarty.me/apprenticeship-capstone-checklist-and-rubric)
+* [Interactive Capstone Project Checklist and Rubric](https://nickmccarty.me/apprenticeship-capstone-checklist-and-rubric)
 * [`scikit-learn's` list of Supervised ML models](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 * [`scikit-learn's` model selection metrics and techniques](https://scikit-learn.org/stable/model_selection.html#model-selection)
 * [`scikit-learn's` summary of ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
@@ -27,7 +35,7 @@
     </tr>
     <tr>
         <td>
-            🆕 Text Classification
+            Text Classification
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1PIWZW-JAGsimiHVd81x-FgJnW-ivfr8-?usp=sharing#offline=true&sandboxMode=true">
@@ -42,7 +50,7 @@
     </tr>
     <tr>
         <td>
-            🆕 HuggingFace BERT Fine-Tuning Tutorial
+            HuggingFace BERT Fine-Tuning Tutorial
         </td>
         <td>
             <a href="https://colab.research.google.com/drive/1Fddo9zcAHYXrpcbBFFiLVhW14Pw0Pg9d?usp=sharing#offline=true&sandboxMode=true">
